@@ -1,0 +1,11 @@
+img{
+    width: 400px;
+}
+
+div{
+    background-color: greenyellow;
+    display: inline-block;
+    padding: 10px;
+    margin: 20px;
+    font-size: 25px;
+}
